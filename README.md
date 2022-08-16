@@ -2,7 +2,7 @@
 
   
 
-![screenShot](resources/output.gif  "ScreenShot")
+![screenShot](output.gif  "ScreenShot")
 
   
 
